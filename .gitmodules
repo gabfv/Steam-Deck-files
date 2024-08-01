@@ -1,3 +1,6 @@
 [submodule "factorio-server/factorio-updater"]
 	path = factorio-server/factorio-updater
 	url = git@github.com:narc0tiq/factorio-updater.git
+[submodule "factorio-server/factorio-mod-updater"]
+	path = factorio-server/factorio-mod-updater
+	url = git@github.com:pdemonaco/factorio-mod-updater.git
