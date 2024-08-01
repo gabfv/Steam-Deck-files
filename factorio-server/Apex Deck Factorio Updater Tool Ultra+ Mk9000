@@ -1,0 +1,4 @@
+#!/bin/bash
+
+source ./factorio-server/*-venv/bin/activate
+pipenv run ./factorio-server/factorio-updater/update_factorio.py --delete-after-applying --apply-to ~/factorio/bin/x64/factorio
