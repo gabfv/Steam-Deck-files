@@ -1,0 +1,3 @@
+[submodule "factorio-server/factorio-updater"]
+	path = factorio-server/factorio-updater
+	url = git@github.com:narc0tiq/factorio-updater.git
